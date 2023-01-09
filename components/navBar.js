@@ -1,6 +1,7 @@
 import Link from "next/Link";
 import ThemeSwitch from "./ThemeSwitch";
 function NavBar() {
+  // navbar rename file commit
   return (
     <>
       <nav>
